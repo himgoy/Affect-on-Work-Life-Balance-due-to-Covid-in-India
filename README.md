@@ -1,7 +1,7 @@
 # Effect-on-Work-Life-Balance-due-to-Covid-in-India
 
 ## Introduction
-Here we are finding out how covid affected the work life balance of people in India
+Here we are finding out how Covid affected the Work Life Balance of people in India.
 
 ## About Data
 
