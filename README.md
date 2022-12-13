@@ -1,7 +1,5 @@
 # Effect-on-Work-Life-Balance-due-to-Covid-in-India
-![atlassian-cloud-data-workdays-are-getting-longer_1120x545-scaled](https://user-images.githubusercontent.com/54285534/207263188-e23e910d-8ca5-43b2-ba3e-8c96f2f8549b.jpg)
-
-![maize](https://user-images.githubusercontent.com/54285534/131239710-1817dd49-14ed-423a-bbdf-5266c07ab969.jpg)
+![Work-Life-Balance](https://user-images.githubusercontent.com/54285534/207263188-e23e910d-8ca5-43b2-ba3e-8c96f2f8549b.jpg)
 ## Introduction
 Here we are finding out how Covid affected the Work Life Balance of people in India.
 
