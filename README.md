@@ -4,7 +4,6 @@
 Here we are finding out how Covid affected the Work Life Balance of people in India.
 
 ## About Data
-![download](https://user-images.githubusercontent.com/54285534/207386866-4d066911-70e2-41f7-9509-594fd1cd062f.jpg)
 
 We have scraped data from Twitter and also taken data from the IEEE dataset.
 
