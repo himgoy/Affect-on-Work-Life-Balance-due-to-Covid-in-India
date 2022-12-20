@@ -1,4 +1,4 @@
-# Effect-on-Work-Life-Balance-due-to-Covid-in-India
+# Affect-on-Work-Life-Balance-due-to-Covid-in-India
 ![Work-Life-Balance](https://user-images.githubusercontent.com/54285534/207263188-e23e910d-8ca5-43b2-ba3e-8c96f2f8549b.jpg)
 ## Introduction
 Here we are finding out how Covid affected the Work Life Balance of people in India.
